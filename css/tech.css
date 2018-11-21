@@ -1,0 +1,15 @@
+.jumbotron {
+    background-image: url(../images/08564453d0190aa.jpg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    /* padding top, right, bottom left  */
+    padding: 50px;
+    color: white;
+}
+
+img {
+    width: 184px;
+    height: 273px;
+}
